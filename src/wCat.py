@@ -10,8 +10,9 @@ showIntro = True #if this is on the intro is shown
 usePredefinedInfo = True #if this is false wCat will ask you every time you start the script for the username, password and tagetProjectId
 
 # User information 
-username = "yourUsername"
-password = "yourPassword"  # It would be smort to store this in a separate file
+username = "wCatProjectAcc"
+with open("password.txt", "r") as password: #to set the password, you have to go into the password txt file and paste your password there.
+    password = password.read()
 
 targetProjectId = "123456" #id of the project you want to know the title and instructions
 
