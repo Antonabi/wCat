@@ -113,7 +113,7 @@ def remixProject(id):
         "Content-Type": "application/json",
     }
 
-    with open("default.json", "r") as defaultProj:
+    with open("defaultProject.json", "r") as defaultProj:
         defaultProj = json.loads(defaultProj.read())
 
     payload = defaultProj
