@@ -10,10 +10,10 @@ showIntro = True #if this is on the intro is shown
 usePredefinedInfo = True #if this is false wCat will ask you every time you start the script for the username, password and tagetProjectId
 
 # User information 
-username = "wCatProjectAcc"
-password = "charisma-risc-sundry-acerbity-cogitate78+!"  # It would be smort to store this in a separate file
+username = "yourUsername"
+password = "yourPassword"  # It would be smort to store this in a separate file
 
-targetProjectId = "923037060" #id of the project you want to know the title and instructions
+targetProjectId = "123456" #id of the project you want to know the title and instructions
 
 if usePredefinedInfo == False:
     print("\033[91mBecause \033[95musePredefinedInfo\033[91m is \033[94mFalse\033[91m, you have to put your username, password and the id of the project.")
