@@ -1,7 +1,7 @@
 # wCat
 This is a little script that lets you see the title and instructions of an unpuplished scratch project.
 # Requirements
-To use wcat you have to have [python installed](https://www.python.org/downloads/).
+To use wCat you have to have [python installed](https://www.python.org/downloads/).
 Also you have to have installed `requests` and `scratchattach`.   
 This is how you install a python library:
 ```
