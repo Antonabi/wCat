@@ -7,7 +7,7 @@ import time
 debug = False #if debug is on you can see indev debug msgs (that make no sense)
 uDebug = True #with this you can see what the script is doing right now
 showIntro = True #if this is on the intro is shown
-usePredefinedInfo = True #if this is false wCat will ask you every time you start the script for the username, password and tagetProjectId
+usePredefinedInfo = False #if this is false wCat will ask you every time you start the script for the username, password and targetProjectId
 
 # User information 
 username = "yourUsername"
