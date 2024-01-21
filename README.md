@@ -36,8 +36,14 @@ If you run the `wCat.py` file now, you will get the same result as way 2. And yo
 If you want to have the same result as way one, you can just change the `usePredefinedInfo` to `False`.
 
 # Extra info
-There are some values at the beginning of the script that can be modified to change this programm.
+There are some values at the beginning of the script that can be modified to change this programm:
 
+| Parameter           | Description                                                                                           |
+|---------------------|-------------------------------------------------------------------------------------------------------|
+| debug               | This lets you see random indev messages that make no sense, so don't turn this on.                   |
+| uDebug              | This lets you see what the program is doing right now.                                                |
+| debug               | This lets you enable/disable the intro.                                                               |
+| usePredefinedInfo   | This lets you switch if the user is asked for the credentials and ID.                                 |
 
 # How this thing works
 This remixes the unpublished project, what lets you get the project name and instructions. To get the project itself, you still need the token.
