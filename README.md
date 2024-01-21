@@ -7,6 +7,11 @@ This is how you install a python library:
 ```
 pip install libraryName
 ```
+# How to use this
+There are 3 ways to use this:
+## 1
+This is the quick way:
+Just download the `wCatOnefile.py`and run it. This will ask you for your scratch password, username and the project id of the project.
 
 # How this thing works
 This remixes the unpublished project, what lets you get the project name and instructions. To get the project itself, you still need the token.
