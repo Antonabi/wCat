@@ -11,6 +11,7 @@ pip install libraryName
 Also you have to have a scratch account. If you dont have one and for some reason dont wont to create one, you can use this test account that i made for wCat:  
 username: `wCatProjectAcc`  
 password: `charisma-risc-sundry-acerbity-cogitate78+!`
+DONT USE THIS ACCOUNT FOR ANYTHING ELSE
 
 # How to use this
 There are 3 ways to use this:
