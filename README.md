@@ -48,7 +48,7 @@ There are some values at the beginning of the script that can be modified to cha
 |---------------------|-------------------------------------------------------------------------------------------------------|
 | debug               | This lets you see random indev messages that make no sense, so don't turn this on.                   |
 | uDebug              | This lets you see what the program is doing right now.                                                |
-| debug               | This lets you enable/disable the intro.                                                               |
+| showIntro           | This lets you enable/disable the intro.                                                               |
 | usePredefinedInfo   | This lets you switch if the user is asked for the credentials and ID.                                 |
 
 # How this thing works
