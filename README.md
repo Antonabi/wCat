@@ -8,6 +8,11 @@ This is how you install a python library:
 pip install libraryName
 ```
 
+To download this just type this into the command prompt:
+```
+git clone https://github.com/Antonabi/wCat.git
+```
+
 Also you have to have a scratch account. If you dont have one and for some reason dont wont to create one, you can use this test account that i made for wCat:  
 username: `wCatProjectAcc`  
 password: `charisma-risc-sundry-acerbity-cogitate78+!`  
