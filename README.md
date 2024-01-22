@@ -54,3 +54,4 @@ There are some values at the beginning of the script that can be modified to cha
 # How this thing works
 This remixes the unpublished project, what lets you get the project name and instructions. To get the project itself, you still need the token.
 (The name comes from "who Cares about tokens" because scratches last api change made it imposible to get the projects token when it is unpublished. The token is needed to get the project file and info.)
+And please ignore the terrability of this code. Please.
