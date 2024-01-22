@@ -36,7 +36,7 @@ The cleaner code is from my perspective just the coolest way to use this.
 Because this has cleaner code. Yay.  
 How to use this the cool way:  
 
-Download the cleanerCode folder in any way you want. Than go into the `wCat.py?` file and change the `username` variable on line  to your username and the `targetProjectId` to the project id.  
+Download the cleanerCode folder in any way you want. Than go into the `wCat.py` file and change the `username` variable on line  to your username and the `targetProjectId` to the project id.  
 Now go into the password.txt file and enter your password there.
 If you run the `wCat.py` file now, you will get the same result as way 2. And you have gained 42 points of coolness.  
 If you want to have the same result as way one, you can just change the `usePredefinedInfo` to `False`.
