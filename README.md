@@ -4,7 +4,7 @@ This is a little script that lets you see the title and instructions of an unpup
 ## dont use this, this is old and probably the worst code I've ever written and then published
 (It isnt even a real cli lol)
 
-I dont even know if this trick still works, but you can use [scratchattach](https://github.com/TimMcCool/scratchattach) `create_remix` of the `sa.PartialProject` class. That should also work and would be way less clunky.
+I dont even know if this trick still works, but you can use [scratchattach](https://github.com/TimMcCool/scratchattach)s `create_remix` function of the `sa.PartialProject` class. That should also work and would be way less clunky.
 
 (I just left this as a notice before archiving this "thing")
 
