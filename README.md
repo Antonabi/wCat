@@ -1,5 +1,13 @@
 # wCat
 This is a little script that lets you see the title and instructions of an unpuplished scratch project.
+
+## dont use this, this is old and probably the worst code I've ever written and then published
+(It isnt even a real cli lol)
+
+I dont even know if this trick still works, but you can use [scratchattach](https://github.com/TimMcCool/scratchattach) `create_remix` of the `sa.PartialProject` class. That should also work and would be way less clunky.
+
+(I just left this as a notice before archiving this "thing")
+
 ## Requirements
 To use wCat you have to have [python installed](https://www.python.org/downloads/).
 Also you have to have installed `requests` and `scratchattach`.   
